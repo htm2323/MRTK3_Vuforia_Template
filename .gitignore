@@ -73,7 +73,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Packages
-[Pp]ackages/
+#[Pp]ackages/
 
 # Ros-tcp-connector
 Assets/msgbrowser_settings*
