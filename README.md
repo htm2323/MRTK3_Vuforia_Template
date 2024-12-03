@@ -1,6 +1,7 @@
 # MRTK3 + Vuforia 開発テンプレート
 HoloLens2向けMRアプリケーションを開発するために，MRTK3 + Vuforia 10 で開発を行うためのテンプレートのUnityプロジェクトです．
 Image Targetの使用を想定したSample Sceneを作成しています．
+HoloLens上でデバッグを行うため，デバッグメッセージを表示するプレハブ等を含んでいます．
 
 ## 動作確認環境
 - HoloLens2
