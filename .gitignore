@@ -92,6 +92,7 @@ Assets/XRI*.meta
 
 # Vuforia
 [Pp]ackages/com.ptc.vuforia*
+[Qq]CAR/
 Assets/Common
 Assets/Common.meta
 Assets/Editor
