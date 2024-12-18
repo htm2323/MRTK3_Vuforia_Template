@@ -19,7 +19,7 @@ HoloLens上でデバッグを行うため，デバッグメッセージを表示
 
 ## 導入(HoloLens2向け)
 1. クローンした本プロジェクトから`Package/manifest.json`を削除
-2. Unityで本プロジェクトを開く (SafeModeをスキップしてよい)
+2. Unityで本プロジェクトを開く
 3. PackageManager もしくは UnityPackageで **Vuforia Engine** をimport
 4. Mixed Reality Feature Toolで **MRTK3の各種パッケージ** をimport
 6. MRTK3の設定を行う
